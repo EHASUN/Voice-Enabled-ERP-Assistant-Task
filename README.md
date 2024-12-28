@@ -150,17 +150,6 @@ Before we get started, be sure to star our repository and get instant notificati
 - [X](https://img.shields.io/twitter/follow/TenFramework?logo=X&color=%20%23f5f5f5): Great for sharing your agents and interacting with the community.
 
 <br>
-<h2>Star History</h2>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ten-framework/ten-agent&type=Date)](https://star-history.com/#ten-framework/ten-agent&Date)
-
- <br>
- <h2>Code Contributors</h2>
-
-[![TEN](https://contrib.rocks/image?repo=TEN-framework/ten-agent)](https://github.com/TEN-framework/ten-agent/graphs/contributors)
-
-<br>
-<h2>Contribution Guidelines</h2>
 
 Contributions are welcome! Please read the [contribution guidelines](./docs/code-of-conduct/contributing.md) first.
 
